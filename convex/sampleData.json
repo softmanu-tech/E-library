@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Introduction to AI",
+    "type": "video",
+    "description": "Comprehensive overview of Artificial Intelligence",
+    "fileUrl": "/videos/ai-intro.mp4",
+    "thumbnailUrl": "/images/ai-intro-thumbnail.jpg",
+    "author": "Dr. AI Expert",
+    "publishDate": "2024-01-15",
+    "duration": 3600,
+    "category": "education"
+  },
+  {
+    "title": "Machine Learning Podcast",
+    "type": "audio",
+    "description": "Deep dive into machine learning concepts",
+    "fileUrl": "/audios/ml-podcast.mp3",
+    "thumbnailUrl": "/images/ml-podcast-thumbnail.jpg",
+    "author": "Tech Insights",
+    "publishDate": "2024-02-20",
+    "duration": 2400,
+    "category": "research"
+  },
+  {
+    "title": "Advanced Machine Learning Journal",
+    "type": "journal",
+    "description": "Research findings in machine learning",
+    "fileUrl": "/journals/ml-research-2024.pdf",
+    "thumbnailUrl": "/images/journal-thumbnail.jpg",
+    "author": "Research Institute",
+    "publishDate": "2024-03-15",
+    "category": "research"
+  },
+  {
+    "title": "Advanced Machine Learning Journal",
+    "type": "books",
+    "description": "Research findings in machine learning",
+    "fileUrl": "/journals/ml-research-2024.pdf",
+    "thumbnailUrl": "/images/journal-thumbnail.jpg",
+    "author": "Research Institute",
+    "publishDate": "2024-03-15",
+    "category": "research"
+  }
+]
